@@ -52,3 +52,6 @@ Para obter uma cópia do projeto em sua máquina local, execute o seguinte coman
 ```bash
 git clone https://github.com/seu-usuario/currency-converter-app.git
 cd currency-converter-app
+```
+### 2. Ou vá até a pasta Dist e baixe o arquivo _"main.exe"_
+"
