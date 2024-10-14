@@ -56,6 +56,11 @@ cd currency-converter-app
 ### 2. Ou vá até a pasta Dist e baixe o arquivo _"main.exe"_
 "
 
+## Contato:
+
+ **Para Mais Informações ou perguntas, sinta-se a vontade para entrar em contato:**
+- **Nome:** Fernando Koch
+- **Email:** Fernandokoch26@gmail.com
+- **Git Hub:** FernandoKoch11
+
 https://github.com/user-attachments/assets/a6d72380-40c3-4a37-bdcd-3d58b7c3e7b2
-
-
