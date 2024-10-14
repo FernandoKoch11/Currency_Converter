@@ -55,3 +55,7 @@ cd currency-converter-app
 ```
 ### 2. Ou vá até a pasta Dist e baixe o arquivo _"main.exe"_
 "
+
+https://github.com/user-attachments/assets/a6d72380-40c3-4a37-bdcd-3d58b7c3e7b2
+
+
